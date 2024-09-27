@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 8080;
 // Serve static files from the 'build' directory
 app.use(express.static(path.join(__dirname, 'build')));
 
-// Handle any request and serve 'index.html'
+// Handle any request and serve 'index.html
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
