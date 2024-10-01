@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f233c614.css",
-    "main.js": "/static/js/main.da9c7c6f.js",
+    "main.css": "/static/css/main.18866e32.css",
+    "main.js": "/static/js/main.3bd7bfc5.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
@@ -43,6 +43,7 @@
     "static/media/career-bg 1.png": "/static/media/career-bg 1.d762492f367e2e5ead2c.png",
     "static/media/fat-powder 2.png": "/static/media/fat-powder 2.1ca1a8e7c0e2c5404a67.png",
     "static/media/newsletter-bg.png": "/static/media/newsletter-bg.71dc0461fb2b46dd9082.png",
+    "static/media/lime_bg.jpg": "/static/media/lime_bg.79ec2bfff66b420562a0.jpg",
     "static/media/global-marketing.png": "/static/media/global-marketing.1c5f6bc3a6f308c17a69.png",
     "static/media/partner_1.png": "/static/media/partner_1.896bafc1ae41eaf0b84c.png",
     "static/media/sustainability-bg.png": "/static/media/sustainability-bg.caf04a6ed23e28df6eb9.png",
@@ -83,6 +84,7 @@
     "static/media/cs2.jpg": "/static/media/cs2.8886afd5e792c1701a49.jpg",
     "static/media/partner_5.jpg": "/static/media/partner_5.53e7cb86fd6b2fba69d8.jpg",
     "static/media/partner_9.jpg": "/static/media/partner_9.578007df4c1bb328c7ff.jpg",
+    "static/media/lime.png": "/static/media/lime.74898ede35d21e787e73.png",
     "static/media/beetroot-powder.png": "/static/media/beetroot-powder.6a3fe93b7630bae4f4d8.png",
     "static/media/gum-arabic.png": "/static/media/gum-arabic.b5acbd5cdc3a1c49fe55.png",
     "static/media/natural-colorant.jpg": "/static/media/natural-colorant.7b475f1ffb2007b537e1.jpg",
@@ -97,6 +99,7 @@
     "static/media/counter4.png": "/static/media/counter4.e71a1e038e3b07615de3.png",
     "static/media/gum-arabic.jpg": "/static/media/gum-arabic.01863df9cf4dfe1ceeb4.jpg",
     "static/media/fat-powder.png": "/static/media/fat-powder.629d68c729e737667d59.png",
+    "static/media/tamarind-powder3.png": "/static/media/tamarind-powder3.e010f9610b83a93fc546.png",
     "static/media/HVP.jpg": "/static/media/HVP.4e9dee82cdc83c944453.jpg",
     "static/media/creamers.jpg": "/static/media/creamers.7cdf52218192d290793b.jpg",
     "static/media/slider-04.jpg": "/static/media/slider-04.59fef64b833a6a566338.jpg",
@@ -123,12 +126,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.f233c614.css.map": "/static/css/main.f233c614.css.map",
-    "main.da9c7c6f.js.map": "/static/js/main.da9c7c6f.js.map",
+    "main.18866e32.css.map": "/static/css/main.18866e32.css.map",
+    "main.3bd7bfc5.js.map": "/static/js/main.3bd7bfc5.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f233c614.css",
-    "static/js/main.da9c7c6f.js"
+    "static/css/main.18866e32.css",
+    "static/js/main.3bd7bfc5.js"
   ]
 }
