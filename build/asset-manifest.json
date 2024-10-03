@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c787be34.css",
-    "main.js": "/static/js/main.2147df7e.js",
+    "main.css": "/static/css/main.34b22ed8.css",
+    "main.js": "/static/js/main.834dec17.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
@@ -68,6 +68,7 @@
     "static/media/award-from-nestle.png": "/static/media/award-from-nestle.723866b429d9fa01080e.png",
     "static/media/partner_10.jpg": "/static/media/partner_10.93bc83d36ee4ad4b0f3c.jpg",
     "static/media/partner_2.png": "/static/media/partner_2.38dd1f7f0ace1c754222.png",
+    "static/media/new-office-shifting.jpg": "/static/media/new-office-shifting.ecbbdeb605ac582dc9e7.jpg",
     "static/media/our-values-bg.png": "/static/media/our-values-bg.d12612df1419ed02f1c9.png",
     "static/media/beetroot-powder.jpg": "/static/media/beetroot-powder.4fdece025b635c1adffc.jpg",
     "static/media/partner_3.png": "/static/media/partner_3.0e8d752c59e227d31fb5.png",
@@ -92,6 +93,7 @@
     "static/media/tomato-powder3.png": "/static/media/tomato-powder3.0875537fdda31fe1b4f4.png",
     "static/media/beverage-whitener.png": "/static/media/beverage-whitener.c380ba6b9430758e7fa6.png",
     "static/media/lime.jpg": "/static/media/lime.aad9899771bc8d1fe131.jpg",
+    "static/media/award-from-nestle.jpg": "/static/media/award-from-nestle.ff8c15de16ec6af4511a.jpg",
     "static/media/dietary-fibers.jpg": "/static/media/dietary-fibers.cd6e7cfbf48ef6671165.jpg",
     "static/media/caseinates.jpg": "/static/media/caseinates.386e2b39da01fe72eee7.jpg",
     "static/media/partner_6.jpg": "/static/media/partner_6.c43e37d579d19cb2a5ed.jpg",
@@ -126,12 +128,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.c787be34.css.map": "/static/css/main.c787be34.css.map",
-    "main.2147df7e.js.map": "/static/js/main.2147df7e.js.map",
+    "main.34b22ed8.css.map": "/static/css/main.34b22ed8.css.map",
+    "main.834dec17.js.map": "/static/js/main.834dec17.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c787be34.css",
-    "static/js/main.2147df7e.js"
+    "static/css/main.34b22ed8.css",
+    "static/js/main.834dec17.js"
   ]
 }
