@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ccffebe2.css",
-    "main.js": "/static/js/main.1c6ce611.js",
+    "main.js": "/static/js/main.ff6bac1c.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
@@ -129,11 +129,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.ccffebe2.css.map": "/static/css/main.ccffebe2.css.map",
-    "main.1c6ce611.js.map": "/static/js/main.1c6ce611.js.map",
+    "main.ff6bac1c.js.map": "/static/js/main.ff6bac1c.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccffebe2.css",
-    "static/js/main.1c6ce611.js"
+    "static/js/main.ff6bac1c.js"
   ]
 }
