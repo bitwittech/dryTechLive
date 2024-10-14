@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e52b4480.css",
-    "main.js": "/static/js/main.a0fc9a65.js",
+    "main.css": "/static/css/main.2e17bef6.css",
+    "main.js": "/static/js/main.818b5387.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
@@ -62,13 +62,16 @@
     "static/media/slider-03.jpg": "/static/media/slider-03.e85a57efb8872a68b20b.jpg",
     "static/media/the-brass-ring-clean-label.png": "/static/media/the-brass-ring-clean-label.19430b60669e561a926b.png",
     "static/media/clients-bg 1.png": "/static/media/clients-bg 1.0fc3845caa88bfc398da.png",
+    "static/media/contract-manufacturing-botteling-2.jpg": "/static/media/contract-manufacturing-botteling-2.0cf1c309be99ea34460a.jpg",
     "static/media/partner_4.jpg": "/static/media/partner_4.52aa447f2a6fb681015b.jpg",
     "static/media/amla-powder-bg.jpg": "/static/media/amla-powder-bg.062c574ad89d09d489d2.jpg",
     "static/media/FI-india-2019-participation.png": "/static/media/FI-india-2019-participation.d1ac1492642ef8406d13.png",
     "static/media/award-from-nestle.png": "/static/media/award-from-nestle.723866b429d9fa01080e.png",
     "static/media/partner_10.jpg": "/static/media/partner_10.93bc83d36ee4ad4b0f3c.jpg",
+    "static/media/contract-manufacturing-botteling.jpg": "/static/media/contract-manufacturing-botteling.b86d2c3a2da350c9affe.jpg",
     "static/media/partner_2.png": "/static/media/partner_2.38dd1f7f0ace1c754222.png",
     "static/media/new-office-shifting.jpg": "/static/media/new-office-shifting.ecbbdeb605ac582dc9e7.jpg",
+    "static/media/contract-manufacturing-botteling-4.jpg": "/static/media/contract-manufacturing-botteling-4.052c5f78fdc1241d22b2.jpg",
     "static/media/our-values-bg.png": "/static/media/our-values-bg.d12612df1419ed02f1c9.png",
     "static/media/beetroot-powder.jpg": "/static/media/beetroot-powder.4fdece025b635c1adffc.jpg",
     "static/media/partner_3.png": "/static/media/partner_3.0e8d752c59e227d31fb5.png",
@@ -128,12 +131,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e52b4480.css.map": "/static/css/main.e52b4480.css.map",
-    "main.a0fc9a65.js.map": "/static/js/main.a0fc9a65.js.map",
+    "main.2e17bef6.css.map": "/static/css/main.2e17bef6.css.map",
+    "main.818b5387.js.map": "/static/js/main.818b5387.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e52b4480.css",
-    "static/js/main.a0fc9a65.js"
+    "static/css/main.2e17bef6.css",
+    "static/js/main.818b5387.js"
   ]
 }
