@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e17bef6.css",
-    "main.js": "/static/js/main.818b5387.js",
+    "main.css": "/static/css/main.a3cfe371.css",
+    "main.js": "/static/js/main.857dee15.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
@@ -35,6 +35,7 @@
     "static/media/network-bg.png": "/static/media/network-bg.31fc5ffb1280658e5017.png",
     "static/media/beverage-whitener 2.png": "/static/media/beverage-whitener 2.b21ddde2b51bf6e6c4e0.png",
     "static/media/nutrition-bg.png": "/static/media/nutrition-bg.b41c7afacadb26c1f5df.png",
+    "static/media/counterImg.jpeg": "/static/media/counterImg.08cb66687e7c9b7d03e6.jpeg",
     "static/media/milestones-bg.png": "/static/media/milestones-bg.4bd2ac75b6585507c6eb.png",
     "static/media/blog-bg.png": "/static/media/blog-bg.20568bdded9ed77ac838.png",
     "static/media/food-tech-01.png": "/static/media/food-tech-01.842b4cfa2c13da1f441f.png",
@@ -52,7 +53,6 @@
     "static/media/service-bg.png": "/static/media/service-bg.10b869d260d35e2b9c22.png",
     "static/media/contract-manufacturing-botteling.png": "/static/media/contract-manufacturing-botteling.d7afd0e2b5acfd68404b.png",
     "static/media/contract-manufacturing-cta.png": "/static/media/contract-manufacturing-cta.04b491685166498702ce.png",
-    "static/media/map.png": "/static/media/map.e1d43432d3ba59878351.png",
     "static/media/about-innovation.png": "/static/media/about-innovation.d874731df381b463eec4.png",
     "static/media/contact-bg.png": "/static/media/contact-bg.fab456334b07e306249d.png",
     "static/media/millennial-food-preferences.png": "/static/media/millennial-food-preferences.770d5ff661468e81c70d.png",
@@ -97,6 +97,7 @@
     "static/media/beverage-whitener.png": "/static/media/beverage-whitener.c380ba6b9430758e7fa6.png",
     "static/media/lime.jpg": "/static/media/lime.aad9899771bc8d1fe131.jpg",
     "static/media/award-from-nestle.jpg": "/static/media/award-from-nestle.ff8c15de16ec6af4511a.jpg",
+    "static/media/map2.svg": "/static/media/map2.badd78b0bd2eb9c5162b6bf863ee68a8.svg",
     "static/media/dietary-fibers.jpg": "/static/media/dietary-fibers.cd6e7cfbf48ef6671165.jpg",
     "static/media/caseinates.jpg": "/static/media/caseinates.386e2b39da01fe72eee7.jpg",
     "static/media/partner_6.jpg": "/static/media/partner_6.c43e37d579d19cb2a5ed.jpg",
@@ -131,12 +132,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.2e17bef6.css.map": "/static/css/main.2e17bef6.css.map",
-    "main.818b5387.js.map": "/static/js/main.818b5387.js.map",
+    "main.a3cfe371.css.map": "/static/css/main.a3cfe371.css.map",
+    "main.857dee15.js.map": "/static/js/main.857dee15.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e17bef6.css",
-    "static/js/main.818b5387.js"
+    "static/css/main.a3cfe371.css",
+    "static/js/main.857dee15.js"
   ]
 }
