@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b9f55ea.css",
-    "main.js": "/static/js/main.c0c2c991.js",
+    "main.css": "/static/css/main.6023ed82.css",
+    "main.js": "/static/js/main.3c64f7a1.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
@@ -57,7 +57,6 @@
     "static/media/contact-bg.png": "/static/media/contact-bg.fab456334b07e306249d.png",
     "static/media/millennial-food-preferences.png": "/static/media/millennial-food-preferences.770d5ff661468e81c70d.png",
     "static/media/partner_4.png": "/static/media/partner_4.45b1a7e230d73c7fed90.png",
-    "static/media/new-office-shifting.png": "/static/media/new-office-shifting.c4fbd19e72697227d808.png",
     "static/media/slider-02.jpg": "/static/media/slider-02.bc022ab3d79917539682.jpg",
     "static/media/slider-03.jpg": "/static/media/slider-03.e85a57efb8872a68b20b.jpg",
     "static/media/the-brass-ring-clean-label.png": "/static/media/the-brass-ring-clean-label.19430b60669e561a926b.png",
@@ -68,6 +67,7 @@
     "static/media/FI-india-2019-participation.png": "/static/media/FI-india-2019-participation.d1ac1492642ef8406d13.png",
     "static/media/award-from-nestle.png": "/static/media/award-from-nestle.723866b429d9fa01080e.png",
     "static/media/partner_10.jpg": "/static/media/partner_10.93bc83d36ee4ad4b0f3c.jpg",
+    "static/media/news1.jpeg": "/static/media/news1.3929ebc2349f868be924.jpeg",
     "static/media/contract-manufacturing-botteling.jpg": "/static/media/contract-manufacturing-botteling.b86d2c3a2da350c9affe.jpg",
     "static/media/partner_2.png": "/static/media/partner_2.38dd1f7f0ace1c754222.png",
     "static/media/new-office-shifting.jpg": "/static/media/new-office-shifting.ecbbdeb605ac582dc9e7.jpg",
@@ -132,12 +132,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.3b9f55ea.css.map": "/static/css/main.3b9f55ea.css.map",
-    "main.c0c2c991.js.map": "/static/js/main.c0c2c991.js.map",
+    "main.6023ed82.css.map": "/static/css/main.6023ed82.css.map",
+    "main.3c64f7a1.js.map": "/static/js/main.3c64f7a1.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b9f55ea.css",
-    "static/js/main.c0c2c991.js"
+    "static/css/main.6023ed82.css",
+    "static/js/main.3c64f7a1.js"
   ]
 }
