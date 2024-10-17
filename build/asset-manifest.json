@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.22782846.css",
-    "main.js": "/static/js/main.bdce3d9f.js",
+    "main.js": "/static/js/main.ed02a173.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
+    "static/media/Drytech-Main-Brochure-3.pdf": "/static/media/Drytech-Main-Brochure-3.f737e5b29f3eaa6009ad.pdf",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
     "static/media/tomato-powder.png": "/static/media/tomato-powder.3acc79fb4429517c4089.png",
     "static/media/spray-aragum.png": "/static/media/spray-aragum.31311e1d809d7b7baffe.png",
@@ -133,11 +134,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.22782846.css.map": "/static/css/main.22782846.css.map",
-    "main.bdce3d9f.js.map": "/static/js/main.bdce3d9f.js.map",
+    "main.ed02a173.js.map": "/static/js/main.ed02a173.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22782846.css",
-    "static/js/main.bdce3d9f.js"
+    "static/js/main.ed02a173.js"
   ]
 }
