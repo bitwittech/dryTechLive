@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.251f9ca4.css",
-    "main.js": "/static/js/main.691fe2ac.js",
+    "main.js": "/static/js/main.ff4688a3.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/about-innovation-new.jpg": "/static/media/about-innovation-new.4b94f208df2e4bfb09fb.jpg",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
@@ -135,11 +135,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.251f9ca4.css.map": "/static/css/main.251f9ca4.css.map",
-    "main.691fe2ac.js.map": "/static/js/main.691fe2ac.js.map",
+    "main.ff4688a3.js.map": "/static/js/main.ff4688a3.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.251f9ca4.css",
-    "static/js/main.691fe2ac.js"
+    "static/js/main.ff4688a3.js"
   ]
 }
