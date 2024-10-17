@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.22782846.css",
-    "main.js": "/static/js/main.ed02a173.js",
+    "main.css": "/static/css/main.436e7cef.css",
+    "main.js": "/static/js/main.86589e64.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
+    "static/media/about-innovation-new.jpg": "/static/media/about-innovation-new.4b94f208df2e4bfb09fb.jpg",
     "static/media/video.mp4": "/static/media/video.1998c0e5cb78914bc618.mp4",
     "static/media/Drytech-Main-Brochure-3.pdf": "/static/media/Drytech-Main-Brochure-3.f737e5b29f3eaa6009ad.pdf",
+    "static/media/about-bg-new.jpg": "/static/media/about-bg-new.74eb19553606b6635b97.jpg",
     "static/media/cheese-powder 2.png": "/static/media/cheese-powder 2.5f71efce19014954b8cf.png",
     "static/media/tomato-powder.png": "/static/media/tomato-powder.3acc79fb4429517c4089.png",
     "static/media/spray-aragum.png": "/static/media/spray-aragum.31311e1d809d7b7baffe.png",
@@ -15,7 +17,6 @@
     "static/media/creamer-bg.png": "/static/media/creamer-bg.48a0d3b08caa133c872c.png",
     "static/media/confectioneries-bg.png": "/static/media/confectioneries-bg.33a743f0b1185e74abac.png",
     "static/media/caramel-color 2.png": "/static/media/caramel-color 2.159d03aa510ac9477121.png",
-    "static/media/our-team 1.png": "/static/media/our-team 1.3c9a5117e0a81f9771b0.png",
     "static/media/beetroots.png": "/static/media/beetroots.a04737039c9a0ee817d6.png",
     "static/media/HVP 2.png": "/static/media/HVP 2.0c9dd7000804fa1fa91e.png",
     "static/media/convenience-food-bg.png": "/static/media/convenience-food-bg.cc0c5597603c326c2ead.png",
@@ -54,7 +55,6 @@
     "static/media/service-bg.png": "/static/media/service-bg.10b869d260d35e2b9c22.png",
     "static/media/contract-manufacturing-botteling.png": "/static/media/contract-manufacturing-botteling.d7afd0e2b5acfd68404b.png",
     "static/media/contract-manufacturing-cta.png": "/static/media/contract-manufacturing-cta.04b491685166498702ce.png",
-    "static/media/about-innovation.png": "/static/media/about-innovation.d874731df381b463eec4.png",
     "static/media/contact-bg.png": "/static/media/contact-bg.fab456334b07e306249d.png",
     "static/media/millennial-food-preferences.png": "/static/media/millennial-food-preferences.770d5ff661468e81c70d.png",
     "static/media/partner_4.png": "/static/media/partner_4.45b1a7e230d73c7fed90.png",
@@ -133,12 +133,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.22782846.css.map": "/static/css/main.22782846.css.map",
-    "main.ed02a173.js.map": "/static/js/main.ed02a173.js.map",
+    "main.436e7cef.css.map": "/static/css/main.436e7cef.css.map",
+    "main.86589e64.js.map": "/static/js/main.86589e64.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22782846.css",
-    "static/js/main.ed02a173.js"
+    "static/css/main.436e7cef.css",
+    "static/js/main.86589e64.js"
   ]
 }
