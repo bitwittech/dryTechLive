@@ -1,4 +1,3 @@
-// sendMail.js
 require("dotenv").config();
 const nodemailer = require("nodemailer");
 
@@ -16,18 +15,16 @@ const sendEmail = async (req, res) => {
 
   try {
     const response = await sendMail(
-      email,
+      email, // This will be placed in the CC
       subject,
-      (text = "Request to download brochures."),
+      "Request to download brochures.",
       html
-    ); // Pass 'subject' correctly
-    console.log("Email sent successfully on ",email)
+    );
+    console.log("Email sent successfully to ", email);
     res.status(200).json({ message: "Email sent successfully", response });
   } catch (error) {
     console.error("Error sending email:", error);
-    res
-      .status(500)
-      .json({ message: "Error sending email", error: error.message });
+    res.status(500).json({ message: "Error sending email", error: error.message });
   }
 };
 
@@ -35,7 +32,9 @@ const sendEmail = async (req, res) => {
 const sendMail = async (to, subject, text, html) => {
   try {
     const transporter = nodemailer.createTransport({
-      service: "gmail",
+      host: "smtp.office365.com",   // Outlook SMTP server
+      port: 587,                    // Secure SMTP port
+      secure: false,     
       auth: {
         user: process.env.EMAIL_USER,
         pass: process.env.EMAIL_PASS,
@@ -43,14 +42,16 @@ const sendMail = async (to, subject, text, html) => {
     });
 
     const mailOptions = {
-      from: process.env.EMAIL_USER,
-      to: process.env.EMAIL_USER,
+      from: process.env.EMAIL_USER,   // The sender email (yours)
+      to: process.env.EMAIL_USER,     // Send to yourself (main recipient)
+      cc: to,                         // Place the recipient's email in CC
       subject: subject,
       text: text,
       html: html,
     };
 
     const info = await transporter.sendMail(mailOptions);
+    console.log(">>>>",info)
     return info.response;
   } catch (error) {
     throw error;
