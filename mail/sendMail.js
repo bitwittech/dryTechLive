@@ -74,7 +74,7 @@ const sendMail = async (to, subject, html) => {
     const mailOptions = {
       from: process.env.EMAIL_USER, // Sender email
       to: process.env.EMAIL_USER, // Sending email to yourself
-      cc: to, // Recipient in CC
+      // cc: to, // Recipient in CC
       subject: subject,
       html: html,
     };
