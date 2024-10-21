@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.db22bccd.css",
-    "main.js": "/static/js/main.4d199f2a.js",
+    "main.css": "/static/css/main.e58c7e62.css",
+    "main.js": "/static/js/main.82beb82f.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/im1.jpg": "/static/media/im1.4780c03012027216c696.jpg",
     "static/media/im2.jpg": "/static/media/im2.14de916b3aa04c7ef489.jpg",
@@ -11,7 +11,9 @@
     "static/media/nutritional.pdf": "/static/media/nutritional.f737e5b29f3eaa6009ad.pdf",
     "static/media/about-bg-new.jpg": "/static/media/about-bg-new.74eb19553606b6635b97.jpg",
     "static/media/im4.jpg": "/static/media/im4.a6053396a9bfed0365b3.jpg",
+    "static/media/contract-manufacturing-cta-new.png": "/static/media/contract-manufacturing-cta-new.e6a763d864b360045d20.png",
     "static/media/Drytech-Main-Brochure-3.pdf": "/static/media/Drytech-Main-Brochure-3.0808fbe720088be924f7.pdf",
+    "static/media/news85.png": "/static/media/news85.1a2a79d0c55fc2868b96.png",
     "static/media/newsY5.png": "/static/media/newsY5.9067cd8d1df4d3ee9be4.png",
     "static/media/newsYes.png": "/static/media/newsYes.680b1fd3b6124fa5d4f5.png",
     "static/media/newsYees.png": "/static/media/newsYees.42211b395e3f8078e0d9.png",
@@ -20,7 +22,6 @@
     "static/media/newsY2.png": "/static/media/newsY2.2354d9ca1205df66e635.png",
     "static/media/tomato-powder.png": "/static/media/tomato-powder.3acc79fb4429517c4089.png",
     "static/media/spray-aragum.png": "/static/media/spray-aragum.31311e1d809d7b7baffe.png",
-    "static/media/contract-manufacturing-cta-new.png": "/static/media/contract-manufacturing-cta-new.8e7ddecf881d08f9e807.png",
     "static/media/frozen-desserts-bg.png": "/static/media/frozen-desserts-bg.31770c5384ab657ce71e.png",
     "static/media/bakery-bg.png": "/static/media/bakery-bg.fd41a4db7857e95ad3b9.png",
     "static/media/tamarind-powder.png": "/static/media/tamarind-powder.5c0ad3f6ca68b3039ae7.png",
@@ -33,7 +34,6 @@
     "static/media/awards-2.png": "/static/media/awards-2.9ea90c75347ff081d0fc.png",
     "static/media/c5.png": "/static/media/c5.4c258c131911f9490f9f.png",
     "static/media/beetroots.png": "/static/media/beetroots.a04737039c9a0ee817d6.png",
-    "static/media/news800.jpeg": "/static/media/news800.aada4999b068832e2c58.jpeg",
     "static/media/news05.jpeg": "/static/media/news05.e227aac51eab4e5f72ec.jpeg",
     "static/media/HVP 2.png": "/static/media/HVP 2.0c9dd7000804fa1fa91e.png",
     "static/media/news300.jpeg": "/static/media/news300.3205997b4ca6a20fe9df.jpeg",
@@ -113,6 +113,7 @@
     "static/media/new-office-shifting.jpg": "/static/media/new-office-shifting.ecbbdeb605ac582dc9e7.jpg",
     "static/media/c25.png": "/static/media/c25.29a5a78060e507af1882.png",
     "static/media/c23.png": "/static/media/c23.fa99be9b3cc4fc24adcd.png",
+    "static/media/FI-india-2019-participation.png": "/static/media/FI-india-2019-participation.94f407a1965e2e69afb0.png",
     "static/media/our-values-bg.png": "/static/media/our-values-bg.d12612df1419ed02f1c9.png",
     "static/media/beetroot-powder.jpg": "/static/media/beetroot-powder.4fdece025b635c1adffc.jpg",
     "static/media/partner_3.png": "/static/media/partner_3.0e8d752c59e227d31fb5.png",
@@ -139,7 +140,6 @@
     "static/media/c28.png": "/static/media/c28.3818c458dfe8f3a2cf6a.png",
     "static/media/beverage-whitener.png": "/static/media/beverage-whitener.c380ba6b9430758e7fa6.png",
     "static/media/lime.jpg": "/static/media/lime.aad9899771bc8d1fe131.jpg",
-    "static/media/certificate.jpeg": "/static/media/certificate.33a40903919c23cee642.jpeg",
     "static/media/award-from-nestle.jpg": "/static/media/award-from-nestle.ff8c15de16ec6af4511a.jpg",
     "static/media/map2.svg": "/static/media/map2.badd78b0bd2eb9c5162b6bf863ee68a8.svg",
     "static/media/dietary-fibers.jpg": "/static/media/dietary-fibers.cd6e7cfbf48ef6671165.jpg",
@@ -182,12 +182,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.db22bccd.css.map": "/static/css/main.db22bccd.css.map",
-    "main.4d199f2a.js.map": "/static/js/main.4d199f2a.js.map",
+    "main.e58c7e62.css.map": "/static/css/main.e58c7e62.css.map",
+    "main.82beb82f.js.map": "/static/js/main.82beb82f.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db22bccd.css",
-    "static/js/main.4d199f2a.js"
+    "static/css/main.e58c7e62.css",
+    "static/js/main.82beb82f.js"
   ]
 }
