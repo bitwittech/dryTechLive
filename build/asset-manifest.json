@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.e58c7e62.css",
-    "main.js": "/static/js/main.82beb82f.js",
+    "main.css": "/static/css/main.a9a73e9c.css",
+    "main.js": "/static/js/main.d4f73052.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
+    "static/media/Untitled-design.jpg": "/static/media/Untitled-design.dc70607bf9cff44b46a3.jpg",
     "static/media/im1.jpg": "/static/media/im1.4780c03012027216c696.jpg",
     "static/media/im2.jpg": "/static/media/im2.14de916b3aa04c7ef489.jpg",
     "static/media/im3.jpg": "/static/media/im3.c732e63af71cbcdb9e80.jpg",
@@ -84,7 +85,6 @@
     "static/media/c12.png": "/static/media/c12.d912d21120ec82b32781.png",
     "static/media/sustainability-bg.png": "/static/media/sustainability-bg.caf04a6ed23e28df6eb9.png",
     "static/media/c29.png": "/static/media/c29.5365ffcb4dd7c958b392.png",
-    "static/media/Untitled-design.png": "/static/media/Untitled-design.6807d54426e54008c9c9.png",
     "static/media/marketing-intelligence.png": "/static/media/marketing-intelligence.01e778137b771840e2ef.png",
     "static/media/service-bg.png": "/static/media/service-bg.10b869d260d35e2b9c22.png",
     "static/media/c4.png": "/static/media/c4.03d50ef02fb85a1fc88b.png",
@@ -182,12 +182,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e58c7e62.css.map": "/static/css/main.e58c7e62.css.map",
-    "main.82beb82f.js.map": "/static/js/main.82beb82f.js.map",
+    "main.a9a73e9c.css.map": "/static/css/main.a9a73e9c.css.map",
+    "main.d4f73052.js.map": "/static/js/main.d4f73052.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e58c7e62.css",
-    "static/js/main.82beb82f.js"
+    "static/css/main.a9a73e9c.css",
+    "static/js/main.d4f73052.js"
   ]
 }
