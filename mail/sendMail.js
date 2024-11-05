@@ -3,12 +3,9 @@ const nodemailer = require("nodemailer");
 
 // Controller to handle email sending
 const sendEmail = async (req, res) => {
-  let { email, name, contact, company, type, comment } = req.body;
+  let { email, name, contact, company, type, comment, state } = req.body;
   console.log(req.body);
-  
-  // Adjusting 'comment' based on 'type'
-  comment = type === "contact" ? comment : company;
-  
+
   const html = `
     <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; background-color: #f4f4f4; padding: 20px; border-radius: 8px;">
       <h1 style="text-align: center; color: #333;">Contact Information</h1>
@@ -25,20 +22,43 @@ const sendEmail = async (req, res) => {
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">Email</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${email}</td>
         </tr>
+        ${
+          state
+            ? `<tr>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">State</td>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">${state}</td>
+        </tr>`
+            : ``
+        }
         <tr>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">Contact</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${contact}</td>
         </tr>
-        <tr>
+    ${
+          comment
+            ? `<tr>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">Comment</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${comment}</td>
-        </tr>
+        </tr>`
+            : ``
+        }
+    ${
+          company
+            ? `<tr>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">Company</td>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">${company}</td>
+        </tr>`
+            : ``
+        }
       </table>
     </div>
   `;
 
   // Subject based on 'type'
-  const subject = type === "contact" ? "Contact for enquiry" : "Request to download brochures";
+  const subject =
+    type === "contact"
+      ? "Contact for enquiry"
+      : "Request to download brochures";
 
   try {
     // Send email
@@ -47,12 +67,16 @@ const sendEmail = async (req, res) => {
       subject,
       html
     );
-    
+
     console.log("Email sent successfully to ", email);
-    return res.status(200).json({ message: "Email sent successfully", response });
+    return res
+      .status(200)
+      .json({ message: "Email sent successfully", response });
   } catch (error) {
     console.error("Error sending email:", error);
-    return res.status(500).json({ message: "Error sending email", error: error.message });
+    return res
+      .status(500)
+      .json({ message: "Error sending email", error: error.message });
   }
 };
 
