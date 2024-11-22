@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dddf6243.css",
-    "main.js": "/static/js/main.dd6c9358.js",
+    "main.css": "/static/css/main.8ddac23e.css",
+    "main.js": "/static/js/main.b220600c.js",
     "static/js/453.90de7175.chunk.js": "/static/js/453.90de7175.chunk.js",
     "static/media/Untitled-design.jpg": "/static/media/Untitled-design.dc70607bf9cff44b46a3.jpg",
     "static/media/im1.jpg": "/static/media/im1.4780c03012027216c696.jpg",
@@ -15,6 +15,7 @@
     "static/media/contract-manufacturing-cta-new.png": "/static/media/contract-manufacturing-cta-new.e6a763d864b360045d20.png",
     "static/media/tomato-powder.png": "/static/media/tomato-powder.b40a4574ac0fcb92f2e9.png",
     "static/media/Drytech-Main-Brochure-3.pdf": "/static/media/Drytech-Main-Brochure-3.0808fbe720088be924f7.pdf",
+    "static/media/logo.JPG": "/static/media/logo.59112d8851897c52c788.JPG",
     "static/media/news85.png": "/static/media/news85.1a2a79d0c55fc2868b96.png",
     "static/media/newsY5.png": "/static/media/newsY5.9067cd8d1df4d3ee9be4.png",
     "static/media/newsYes.png": "/static/media/newsYes.680b1fd3b6124fa5d4f5.png",
@@ -55,7 +56,6 @@
     "static/media/health-food-bg.png": "/static/media/health-food-bg.6200ee1f6c302cc18787.png",
     "static/media/awards-4.png": "/static/media/awards-4.5e96096ecee482fbc3ef.png",
     "static/media/nutraceutical-bg.png": "/static/media/nutraceutical-bg.3b1dcc4acb358599dd08.png",
-    "static/media/logo-new.jpg": "/static/media/logo-new.55a754b52c24ec9bd788.jpg",
     "static/media/natural-color-bg.png": "/static/media/natural-color-bg.703a0f7f41019216c9c7.png",
     "static/media/fruit-powders 2.png": "/static/media/fruit-powders 2.3b28bab2160477d18304.png",
     "static/media/milk-powder.png": "/static/media/milk-powder.62b051f36ad6148d9ca5.png",
@@ -182,12 +182,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.dddf6243.css.map": "/static/css/main.dddf6243.css.map",
-    "main.dd6c9358.js.map": "/static/js/main.dd6c9358.js.map",
+    "main.8ddac23e.css.map": "/static/css/main.8ddac23e.css.map",
+    "main.b220600c.js.map": "/static/js/main.b220600c.js.map",
     "453.90de7175.chunk.js.map": "/static/js/453.90de7175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dddf6243.css",
-    "static/js/main.dd6c9358.js"
+    "static/css/main.8ddac23e.css",
+    "static/js/main.b220600c.js"
   ]
 }
