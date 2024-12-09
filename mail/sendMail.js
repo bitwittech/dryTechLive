@@ -3,7 +3,18 @@ const nodemailer = require("nodemailer");
 
 // Controller to handle email sending
 const sendEmail = async (req, res) => {
-  let { email, name, contact, company, type, comment, state } = req.body;
+  let {
+    email,
+    name,
+    contact,
+    company,
+    type,
+    comment,
+    state,
+    country,
+    reason,
+    product_details,
+  } = req.body;
   console.log(req.body);
 
   const html = `
@@ -22,11 +33,23 @@ const sendEmail = async (req, res) => {
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">Email</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${email}</td>
         </tr>
-        ${
-          state
-            ? `<tr>
+        <tr>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">State</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${state}</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">Country</td>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">${country}</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">Reason For Enquiry</td>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">${reason}</td>
+        </tr>
+        ${
+          product_details.length
+            ? `<tr>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">Product Brief</td>
+          <td style="padding: 10px; border-bottom: 1px solid #ddd;">${product_details}</td>
         </tr>`
             : ``
         }
@@ -35,21 +58,21 @@ const sendEmail = async (req, res) => {
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${contact}</td>
         </tr>
     ${
-          comment
-            ? `<tr>
+      comment
+        ? `<tr>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">Comment</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${comment}</td>
         </tr>`
-            : ``
-        }
+        : ``
+    }
     ${
-          company
-            ? `<tr>
+      company
+        ? `<tr>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">Company</td>
           <td style="padding: 10px; border-bottom: 1px solid #ddd;">${company}</td>
         </tr>`
-            : ``
-        }
+        : ``
+    }
       </table>
     </div>
   `;
@@ -98,7 +121,7 @@ const sendMail = async (to, subject, html) => {
     const mailOptions = {
       from: process.env.EMAIL_USER, // Sender email
       to: process.env.EMAIL_USER, // Sending email to yourself
-      // cc: to, // Recipient in CC
+      cc: to,
       subject: subject,
       html: html,
     };
